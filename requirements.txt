@@ -1,0 +1,31 @@
+# API & Data Fetching
+requests==2.31.0
+pandas==2.0.3
+python-dotenv==1.0.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Dashboard
+streamlit==1.28.0
+plotly==5.17.0
+
+# AWS
+boto3==1.28.85
+python-dotenv==1.0.0
+
+# Data Processing
+numpy==1.24.3
+
+# Scheduling
+apscheduler==3.10.4
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Logging
+python-json-logger==2.0.7
+
+# Email
+secure-smtplib==0.1.1
