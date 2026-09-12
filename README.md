@@ -330,7 +330,8 @@ MIT License - See [LICENSE](LICENSE) for details
 
 **Your Name** - Data Engineer
 - GitHub: [@nikhildhamdhere15](https://github.com/nikhildhamdhere15)
-- Email: your.email@example.com
+- Email: nikhildhadmehre@outlook.com
+
 
 ---
 
